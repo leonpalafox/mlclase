@@ -44,7 +44,7 @@ La evaluación consistirá en:
 
 - El proyecto final será el 60% de la evaluación final.
     - El proyecto final consistira en el uso de un técnica de Machine Learning en un set de datos de su preferencia, con su correspondiente diesño y evaluación.
-	- Pueden acer equipos de hasta tres personas.
+	- Pueden hacer equipos de hasta tres personas.
 	- Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
 
 - El restante 40% será distribuido de la siguiente forma:
