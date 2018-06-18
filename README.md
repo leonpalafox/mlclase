@@ -93,8 +93,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Lecture 1 - Intro, Front matter](https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture1.pdf)
-- [Lecture 2 - Outline](https://github.com/leonpalafox/MLClass/blob/master/Slides/PTYS545B_Lecture2.pdf)
+- [Clase 1 - Intro, Front matter](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture1.pdf)
 
 
 # Tareas
