@@ -93,12 +93,11 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Front matter](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture1.pdf)
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture1.pdf)
 
 
 # Tareas
 
-- [Homework 1](https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW1.pdf)
 
 # Libros de texto
 

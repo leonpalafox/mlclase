@@ -98,7 +98,6 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
-- [Homework 1](https://github.com/leonpalafox/MLClass/blob/master/Assignments/HW1.pdf)
 
 # Libros de texto
 
