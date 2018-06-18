@@ -60,10 +60,10 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Temario
 
-1.  [Introducción](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction.ipynb?flush_cache=true) (Dia 1)
+1.  Introducción (Dia 1)
   1. Qué es Machine Learning?
   2. Aplicaciones Modernas de Machine Learning.
-  3. [Python-Pandas Introduction.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
+  3. [Python-Pandas Introduction.](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
 2.  Bases teóricas (Dia 2)
   1. [Álgebra de Matrices](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
   2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
