@@ -1,0 +1,9 @@
+title: Clase de machine Learning
+description: Clase de Machine Learning en la Universidad Panamericana
+google_analytics: 
+show_downloads: true
+logo: /images/escudo.jpg
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
