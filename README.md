@@ -99,6 +99,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
+- [Tarea 1 - Aprendizaje Supervisado](https://github.com/leonpalafox/mlclase/blob/master/tareas/HW1.pdf)
 
 # Libros de texto
 
