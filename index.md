@@ -69,7 +69,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
   2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.  Aprendizaje supervisado. (Dia 3,4)
   1. Regresiones
-  2. Clasificacione
+  2. Clasificadores
     1. [Regresion Logística]
     2. [Maquinas de Soporte Vectorial]
     3. Redes Neuronales Artificiales
