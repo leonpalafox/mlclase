@@ -68,7 +68,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
     1. [Álgebra de Matrices](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
     2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.  Aprendizaje supervisado. (Dia 3,4)
-    1. Regresiones
+    1. [Regresiones](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression.ipynb)
     2. Clasificadores
         1. [Regresion Logística]
         2. [Maquinas de Soporte Vectorial]
