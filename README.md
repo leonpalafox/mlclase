@@ -68,15 +68,15 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
   1. [Álgebra de Matrices](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
   2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.	Aprendizaje supervisado. (Dia 3,4)
-  1. Regresiones
-  2. Clasificadores
-    1. [Regresion Logística]
-    2. [Maquinas de Soporte Vectorial]
-    3. Redes Neuronales Artificiales
-    4. [Deep Learning]
-    5. Convolutional Neural Networks
-		  1. [Clasificador usando Tensorflow]
-		  2. [CNN usando Tensorflow]
+    1. Regresiones
+    2. Clasificadores
+        1. [Regresion Logística]
+        2. [Maquinas de Soporte Vectorial]
+        3. Redes Neuronales Artificiales
+        4. [Deep Learning]
+        5. Convolutional Neural Networks
+		        1. [Clasificador usando Tensorflow]
+		        2. [CNN usando Tensorflow]
 4. Métodos de Validación (Dia 5)
   1. [Validación Curzada]
   2. Analisis de Bias-Variance
