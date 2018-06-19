@@ -60,36 +60,37 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Temario
 
-1.  Introducción (Dia 1)
-  1. Qué es Machine Learning?
-  2. Aplicaciones Modernas de Machine Learning.
-  3. [Python-Pandas Introduction.](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
+1.  [Introducción](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction.ipynb?flush_cache=true) (Dia 1)
+    1. Qué es Machine Learning?
+    2. Aplicaciones Modernas de Machine Learning.
+    3. [Python-Pandas Introduction.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
 2.  Bases teóricas (Dia 2)
-  1. [Álgebra de Matrices](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
-  2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
+    1. [Álgebra de Matrices](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
+    2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.  Aprendizaje supervisado. (Dia 3,4)
-  1. Regresiones
-  2. Clasificadores
-    1. [Regresion Logística]
-    2. [Maquinas de Soporte Vectorial]
-    3. Redes Neuronales Artificiales
-    4. [Deep Learning]
-    5. Convolutional Neural Networks
-    1. [Clasificador usando Tensorflow]
-    2. [CNN usando Tensorflow]
+    1. Regresiones
+    2. Clasificadores
+        1. [Regresion Logística]
+        2. [Maquinas de Soporte Vectorial]
+        3. Redes Neuronales Artificiales
+        4. [Deep Learning]
+        5. Convolutional Neural Networks
+              1. [Clasificador usando Tensorflow]
+              2. [CNN usando Tensorflow]
 4. Métodos de Validación (Dia 5)
-  1. [Validación Curzada]
-  2. Analisis de Bias-Variance
-  3. [ROC y AUC]
+    1. [Validación Curzada]
+    2. Analisis de Bias-Variance
+    3. [ROC y AUC]
 6. Aprendizaje no supervisado (Dia 6,7)
-  1. Clustering
-    1. [K-Means]
-    2. Aplicaciones
-  2. Técnicas de reducción de dimensionalidad
-    1. (Análisis de componentes principales)
-    2. [Análisis de componentes independientes]
-    3. T-SNE
+    1. Clustering
+        1. [K-Means]
+        2. Aplicaciones
+    2. Técnicas de reducción de dimensionalidad
+        1. (Análisis de componentes principales)
+        2. [Análisis de componentes independientes]
+        3. T-SNE
 8. Examen Final y Entrega de Proyectos (Dia 8)
+
 
 # Slides
 
