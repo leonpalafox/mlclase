@@ -69,6 +69,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
     2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
 3.  Aprendizaje supervisado. (Dia 3,4)
     1. [Regresiones](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression.ipynb)
+        1. [Ejemplo 2](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression2.ipynb)
+        2. [Ejemplo 3](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/House Prices Analysis.ipynb)
     2. Clasificadores
         1. [Regresion Logística]
         2. [Maquinas de Soporte Vectorial]
