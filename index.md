@@ -70,8 +70,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 3.  Aprendizaje supervisado. (Dia 3,4)
     1. [Regresiones](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression.ipynb)
         1. [Ejemplo 2](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression2.ipynb)
-        2. [Ejemplo 3](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/House Prices Analysis.ipynb)    2. Clasificadores
-        1. [Maquinas de Soporte Vectorial](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/SVMNotebook.ipynb)
+        2. [Ejemplo 3](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/House Prices Analysis.ipynb)  
+    2. Clasificadores
+        1. [Maquinas de Soporte Vectorial](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter4SVMs/SVMNotebook.ipynb)
         2. Redes Neuronales Artificiales
         3. [Deep Learning]
         4. Convolutional Neural Networks
