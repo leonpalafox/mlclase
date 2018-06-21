@@ -71,10 +71,10 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
     1. [Regresiones](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression.ipynb)
         1. [Ejemplo 2](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression2.ipynb)
         2. [Ejemplo 3](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/House Prices Analysis.ipynb)    2. Clasificadores
-        2. [Maquinas de Soporte Vectorial](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/SVMNotebook.ipynb)
-        3. Redes Neuronales Artificiales
-        4. [Deep Learning]
-        5. Convolutional Neural Networks
+        1. [Maquinas de Soporte Vectorial](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/SVMNotebook.ipynb)
+        2. Redes Neuronales Artificiales
+        3. [Deep Learning]
+        4. Convolutional Neural Networks
 		          1. [Clasificador usando Tensorflow]
 		          2. [CNN usando Tensorflow]
 4. Métodos de Validación (Dia 5)
