@@ -95,6 +95,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture1.pdf)
 - [Clase 2 - Fundamentos, Regresión Lineal?](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture2.pdf)
+- [Clase 3/4 - Regresión Lineal, SVMs](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture3.pdf)
+
 
 
 # Tareas
