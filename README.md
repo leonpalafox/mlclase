@@ -78,7 +78,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 		          1. [Clasificador usando Tensorflow]
 		          2. [CNN usando Tensorflow]
 4. Métodos de Validación (Dia 5)
-    1. [Validación Curzada]
+    1. [Validación Curzada](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter6Validation/CrossValidationRegression.ipynb)
     2. Analisis de Bias-Variance
     3. [ROC y AUC]
 6. Aprendizaje no supervisado (Dia 6,7)
