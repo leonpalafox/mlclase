@@ -84,7 +84,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
     3. [ROC y AUC]
 6. Aprendizaje no supervisado (Dia 6,7)
     1. Clustering
-        1. [K-Means]
+        1. [K-Means](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter7Clustering/EjemplodeKMeans.ipynb)
         2. Aplicaciones
     2. Técnicas de reducción de dimensionalidad
         1. (Análisis de componentes principales)
