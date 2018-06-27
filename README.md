@@ -84,10 +84,11 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 6. Aprendizaje no supervisado (Dia 6,7)
     1. Clustering
         1. [K-Means](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter7Clustering/EjemplodeKMeans.ipynb)
+        2. Aplicaciones
     2. Técnicas de reducción de dimensionalidad
-        1. (Análisis de componentes principales)
-        2. [Análisis de componentes independientes]
-        3. T-SNE
+        1. [Análisis de componentes principales](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8PCAICA/PCA Analysis.ipynb)
+        2. [Análisis de componentes independientes](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8PCAICA/ICA analysis.ipynb)
+        3. [T-SNE](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8TSNE/TSNEDemo.ipynb)
 8. Examen Final y Entrega de Proyectos (Dia 8)
 
 # Slides
@@ -97,6 +98,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 3/4 - Regresión Lineal, SVMs](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture3.pdf)
 - [Clase 5 - Métodos de Validación](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture4.pdf)
 - [Clase 6 - Aprendizaje No Supervisado](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture5.pdf)
+- [Clase 7 - Aprendizaje No Supervisado/ICA](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture6.pdf)
 
 
 
