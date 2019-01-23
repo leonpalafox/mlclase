@@ -28,7 +28,7 @@ Los estudiantes serán capaces de implementar y validar diferentes técnicas de 
 
 ## Horas de clase
 
-Esta clase será Sábados de 11:00 a.m a 2:00 p.m.
+Esta clase será Martes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
@@ -48,7 +48,7 @@ La evaluación consistirá en:
   - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
 
 - El restante 40% será distribuido de la siguiente forma:
-  - 1 Examen. 
+  - 1 Examen parcial y un examen final. 
   - Dos tareas.
   - Participación en clase
 
@@ -60,53 +60,47 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Temario
 
-1.  [Introducción](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction.ipynb?flush_cache=true)
+1.  Introducción
     1. Qué es Machine Learning?
     2. Aplicaciones Modernas de Machine Learning.
-    3. [Python-Pandas Introduction.](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter1Introduction/Introduction_PythonPandas.ipynb?flush_cache=true)
+    3. Introducción a Python-Pandas.
 2.  Bases teóricas
-    1. [Álgebra de Matrices](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/MatrixAlgebra.ipynb)
-    2. [Distribuciones probabilísticas](http://nbviewer.jupyter.org/github/leonpalafox/MLClass/blob/master/Chapter2Fundamentals/Probability%20Distributions.ipynb)
+    1. Álgebra de Matrices
+    2. Distribuciones probabilísticas
 3.  Aprendizaje supervisado.
-    1. [Regresiones](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression.ipynb)
-        1. [Ejemplo 2](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/Regression2.ipynb)
-        2. [Ejemplo 3](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter3Regression/House Prices Analysis.ipynb)  
+    1. Regresion Lineal
     2. Clasificadores
-        1. [Maquinas de Soporte Vectorial](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter4SVMs/SVMNotebook.ipynb)
-        2. Redes Neuronales Artificiales
-        3. [Deep Learning]
-        4. Convolutional Neural Networks
-              1. [Clasificador usando Tensorflow]
-              2. [CNN usando Tensorflow]
+        1. Regresión Logística
+        2. Maquinas de Soporte Vectorial
+        3. Redes Neuronales Artificiales
+        4. Deep Learning
+        5. Redes Neuronales Convolucionales
+              1. Clasificador usando Tensorflow
+              2. CNN usando Tensorflow
 4. Métodos de Validación
-    1. [Validación Curzada](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter6Validation/CrossValidationRegression.ipynb)
+    1. Validación Curzada
     2. Analisis de Bias-Variance
-    3. [ROC y AUC]
+    3. ROC y AUC
 6. Aprendizaje no supervisado
     1. Clustering
-        1. [K-Means](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter7Clustering/EjemplodeKMeans.ipynb)
+        1. K-Means
         2. Aplicaciones
     2. Técnicas de reducción de dimensionalidad
-        1. [Análisis de componentes principales](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8PCAICA/PCA Analysis.ipynb)
-        2. [Análisis de componentes independientes](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8PCAICA/ICA analysis.ipynb)
-        3. [T-SNE](http://nbviewer.jupyter.org/github/leonpalafox/mlclase/blob/master/Chapter8TSNE/TSNEDemo.ipynb)
+        1. Análisis de componentes principales
+        2. Análisis de componentes independientes
+        3. T-SNE
 8. Examen Final y Entrega de Proyectos
 
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML01_Lecture1.pdf)
-- [Clase 2 - Fundamentos, Regresión Lineal?]()
-- [Clase 3/4 - Regresión Lineal, SVMs](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML012018_Lecture3.pdf)
-- [Clase 5 - Métodos de Validación]()
-- [Clase 6 - Aprendizaje No Supervisado]()
-- [Clase 7 - Aprendizaje No Supervisado/ICA]()
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML101_Clase_01_2019_1.pptx)
+
 
 
 
 # Tareas
 
-- [Tarea 1 - Aprendizaje Supervisado](https://github.com/leonpalafox/mlclase/blob/master/tareas/HW1.pdf)
 
 
 # Libros de texto
