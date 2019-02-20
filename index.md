@@ -98,6 +98,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 2 - Regresión/Proba](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML101_Clase_01_2019_2.pptx)
 - [Clase 3 - Regresión/Python](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML101_Clase_01_2019_3.pptx)
 - [Clase 4 - SVM/Python](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML101_Clase_01_2019_4.pptx)
+- [Clase 5 - Modelos/Python](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML101_Clase_01_2019_5.pptx)
 
 
 
