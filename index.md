@@ -102,6 +102,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 6 - Modelos/Python](https://github.com/leonpalafox/mlclase/blob/master/Slides/UPML101_Clase_01_2019_6.pptx)
 
 
+# Datos
+
+https://raw.githubusercontent.com/leonpalafox/mlclase/master/Unsupervised/data_clustering/uber-raw-data-jul14.csv
 
 
 # Tareas
